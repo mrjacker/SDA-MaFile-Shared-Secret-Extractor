@@ -42,4 +42,3 @@ AltAccount3:ZZZZZZZZZZZZZZZZZZZZ=
 ## ⚠️ Security Warning
 
 **Keep your extracted data safe.** The `shared_secret` is the master seed used to generate your time-based one-time passwords (TOTP). Because this script exports those secrets into an unencrypted, plain text file, anyone with access to the output file can generate your 2FA codes. Never share the output file and ensure it is stored in a secure, private location.
-```
