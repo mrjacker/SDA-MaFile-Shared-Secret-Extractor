@@ -1,7 +1,3 @@
-That's awesome! Glad to hear it runs smoothly on Windows. 
-
-Here is a clean, professional `README.md` file you can copy and paste directly into your GitHub repository. It covers what the script does, how to use it, and includes an important security disclaimer.
-
 ```markdown
 # MAFile Secret Extractor
 
